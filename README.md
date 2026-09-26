@@ -1,3 +1,13 @@
+<picture>
+  <img width="100%" src="https://raw.githubusercontent.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/main/assets/cover-imaging.png" alt="Architecture reference: Volumetric image segmentation cover.">
+</picture>
+
+**Architecture reference · Volumetric image segmentation**
+
+[Profile](https://github.com/Ramtin-Mojtahedi) · [Project directory](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/blob/main/REPOSITORY_INDEX.md)
+
+Reference fork of [tamasino52/UNETR](https://github.com/tamasino52/UNETR). Original authorship and licensing remain with the upstream project.
+
 # Reference
 
 <!-- repository-guide:start -->
